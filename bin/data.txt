@@ -1,0 +1,14 @@
+Time, Floor, Floor Button, Car Button, Error
+14:05:15.0, 3, Up, 12, door_jam
+14:10:15.0, 4, Up, 22, no_error
+14:10:15.0, 5, Up, 15, no_error
+14:10:15.0, 5, Up, 18, no_error
+14:10:15.0, 5, Up, 14, door_jam
+14:30:15.0, 2, Up, 18, door_jam
+14:35:15.0, 2, Up, 20, no_error
+14:35:15.0, 2, Up, 22, no_error
+14:35:15.0, 2, Up, 21, no_error
+14:35:15.0, 2, Up, 13, no_error
+14:35:15.0, 2, Up, 13, no_error
+14:40:15.0, 17, Down, 1, stuck_floor
+14:40:15.0, 2, Up, 20, no_error
